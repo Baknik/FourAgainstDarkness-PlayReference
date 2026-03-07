@@ -2,5 +2,8 @@
   "theme": "obsidian",
   "showRibbon": true,
   "baseFontSize": 20,
-  "baseFontSizeAction": false
+  "baseFontSizeAction": false,
+  "enabledCssSnippets": [
+    "table_spacing"
+  ]
 }

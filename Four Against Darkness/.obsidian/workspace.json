@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "__Playthroughs/Playthrough 1.md",
-                "mode": "source",
+                "file": "__Playthroughs/Character 1.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Playthrough 1"
+              "title": "Character 1"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__Playthroughs/Playthrough 1.md",
+                "file": "__Playthroughs/Character 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Playthrough 1"
+              "title": "Backlinks for Character 1"
             }
           },
           {
@@ -171,10 +171,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "__Playthroughs/Playthrough 1.md"
+                "file": "__Playthroughs/Character 1.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Playthrough 1"
+              "title": "File properties for Character 1"
             }
           }
         ]
@@ -196,44 +196,44 @@
   },
   "active": "a7f98962074c3f75",
   "lastOpenFiles": [
+    "__Playthroughs/Character 2.md",
+    "__Playthroughs/Character 3.md",
+    "__Playthroughs/Character 4.md",
+    "__Playthroughs/Character 1.md",
+    "Saves/Strength.md",
+    "Saves/Lockpicking.md",
+    "Town/Buildings/General Store.md",
+    "Town/Buildings/Temple.md",
     "Items/Lantern.md",
-    "__Playthroughs/Playthrough 1.md",
+    "Items/Flask of Flammable Oil.md",
+    "Classes/Barbarian.md",
+    "Biomes/The Abyss.md",
+    "_Bases/General Store.base",
+    "_Bases/Temple.base",
+    "Magical.md",
+    "Classes",
+    "Playthrough 1",
     "_Templates/Save Template.md",
     "Items/Scroll Of Blessing.md",
     "__Playthroughs",
-    "_Bases/Temple.base",
-    "_Bases/General Store.base",
     "_Bases/Biomes.base",
-    "Items/Flask of Flammable Oil.md",
     "Rules/Encounter.md",
     "Flammable.md",
     "Rules/Hit.md",
     "Rules/Attack.md",
-    "Biomes/The Abyss.md",
-    "Town/Buildings/Temple.md",
-    "Town/Buildings/General Store.md",
     "Items",
     "Untitled.md",
     "Rules/Darkness.md",
     "_Canvas/Adventure Flow.canvas",
     "Rules/Door.md",
-    "Saves/Strength.md",
     "Rules/Character.md",
     "Rules/Save.md",
     "Rules/Wandering Enemy.md",
     "Rules/Adventure.md",
-    "Herbalist.md",
-    "Boss.md",
-    "Silver.md",
-    "Rules/Mount.md",
-    "Rules/Tile.md",
-    "Rules/Party Member.md",
     "_Canvas/Main Flows.canvas",
     "_Canvas",
     "_Templates",
     "Saves",
-    "Reminders",
-    "Flows",
     "Untitled.canvas"
   ]
 }
