@@ -11,13 +11,14 @@
             "id": "a7f98962074c3f75",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "_Bases/Temple.base",
-                "viewName": "Table"
+                "file": "__Playthroughs/Playthrough 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Temple"
+              "icon": "lucide-file",
+              "title": "Playthrough 1"
             }
           }
         ]
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rules/Lycanthropy.md",
+                "file": "__Playthroughs/Playthrough 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lycanthropy"
+              "title": "Backlinks for Playthrough 1"
             }
           },
           {
@@ -163,13 +164,24 @@
               "icon": "lucide-list",
               "title": "Outline of Lycanthropy"
             }
+          },
+          {
+            "id": "733a702282abe73f",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "__Playthroughs/Playthrough 1.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Playthrough 1"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,19 +194,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "595ea9c35cc696c7",
+  "active": "a7f98962074c3f75",
   "lastOpenFiles": [
-    "_Bases/General Store.base",
-    "_Bases/Temple.base",
-    "Items/Scroll Of Blessing.md",
     "Items/Lantern.md",
+    "__Playthroughs/Playthrough 1.md",
+    "_Templates/Save Template.md",
+    "Items/Scroll Of Blessing.md",
+    "__Playthroughs",
+    "_Bases/Temple.base",
+    "_Bases/General Store.base",
+    "_Bases/Biomes.base",
+    "Items/Flask of Flammable Oil.md",
+    "Rules/Encounter.md",
+    "Flammable.md",
+    "Rules/Hit.md",
+    "Rules/Attack.md",
+    "Biomes/The Abyss.md",
     "Town/Buildings/Temple.md",
     "Town/Buildings/General Store.md",
     "Items",
     "Untitled.md",
-    "_Bases/Biomes.base",
     "Rules/Darkness.md",
-    "Biomes/The Abyss.md",
     "_Canvas/Adventure Flow.canvas",
     "Rules/Door.md",
     "Saves/Strength.md",
@@ -202,26 +222,18 @@
     "Rules/Save.md",
     "Rules/Wandering Enemy.md",
     "Rules/Adventure.md",
-    "Rules/Encounter.md",
     "Herbalist.md",
     "Boss.md",
     "Silver.md",
     "Rules/Mount.md",
-    "Rules/Attack.md",
     "Rules/Tile.md",
     "Rules/Party Member.md",
-    "Rules/Ranged.md",
-    "Rules/Search.md",
-    "Rules/The Dark Plague.md",
-    "Rules/Indoors.md",
     "_Canvas/Main Flows.canvas",
     "_Canvas",
     "_Templates",
     "Saves",
     "Reminders",
     "Flows",
-    "Untitled.canvas",
-    "Equipment",
-    "Town/Buildings"
+    "Untitled.canvas"
   ]
 }
