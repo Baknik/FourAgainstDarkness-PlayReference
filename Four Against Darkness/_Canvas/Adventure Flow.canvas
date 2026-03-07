@@ -1,0 +1,40 @@
+{
+	"nodes":[
+		{"id":"5d2800cf0fc38916","type":"text","text":"Enter [[Tile]]","x":-424,"y":-600,"width":264,"height":60},
+		{"id":"5bf0d64be39524c3","type":"text","text":"Select [[Tile]] Shape","x":-424,"y":-420,"width":264,"height":60},
+		{"id":"d9039e6bd6019f85","type":"text","text":"Select [[Tile]] [[Content]]","x":-424,"y":-300,"width":264,"height":60},
+		{"id":"4a2a4f0bcf46bc6a","type":"text","text":"Start [[Encounter]]","x":240,"y":-117,"width":210,"height":55},
+		{"id":"e1546ea51b62b8c3","type":"text","text":"Choose Exit","x":-424,"y":220,"width":264,"height":60},
+		{"id":"5cd3df7bff83a3ae","type":"text","text":"Exit [[Tile]]","x":-424,"y":580,"width":264,"height":60},
+		{"id":"cdf164e587cb636e","type":"text","text":"[[Door]]","x":-484,"y":400,"width":91,"height":57},
+		{"id":"096739358c1a6aae","type":"text","text":"End [[Adventure]]","x":-424,"y":820,"width":264,"height":60},
+		{"id":"171696cd18972c33","type":"text","text":"Start [[Adventure]]","x":-424,"y":-820,"width":264,"height":60},
+		{"id":"324dde1a12436c3f","type":"text","text":"[[Search]]","x":-424,"y":-117,"width":264,"height":60},
+		{"id":"5f416e4a3e3e4fb0","type":"text","text":"Roll for [[Wandering Enemy]]","x":-80,"y":-420,"width":292,"height":60},
+		{"id":"43d6eb69befb80a2","type":"text","text":"[[Combat]] Encounter","x":400,"y":80,"width":220,"height":52},
+		{"id":"fd1061c5fe70c5bf","type":"text","text":"End Encounter","x":240,"y":280,"width":190,"height":55},
+		{"id":"ccae8303b1299d61","type":"text","text":"Event Encounter","x":66,"y":80,"width":220,"height":53}
+	],
+	"edges":[
+		{"id":"dbe48763afbe16bf","fromNode":"5bf0d64be39524c3","fromSide":"bottom","toNode":"d9039e6bd6019f85","toSide":"top"},
+		{"id":"74135e24b13a4570","fromNode":"d9039e6bd6019f85","fromSide":"right","toNode":"4a2a4f0bcf46bc6a","toSide":"left"},
+		{"id":"1d9b91b70d86c138","fromNode":"e1546ea51b62b8c3","fromSide":"bottom","toNode":"cdf164e587cb636e","toSide":"top","label":"Door"},
+		{"id":"0f642a14467fe327","fromNode":"cdf164e587cb636e","fromSide":"bottom","toNode":"5cd3df7bff83a3ae","toSide":"top"},
+		{"id":"851dc63380da5775","fromNode":"e1546ea51b62b8c3","fromSide":"bottom","toNode":"5cd3df7bff83a3ae","toSide":"top","label":"Open\nPassage"},
+		{"id":"71339d8852598880","fromNode":"5d2800cf0fc38916","fromSide":"right","toNode":"5f416e4a3e3e4fb0","toSide":"top","label":"Previously\nVisited Tile"},
+		{"id":"c55c9002c184caef","fromNode":"5d2800cf0fc38916","fromSide":"bottom","toNode":"5bf0d64be39524c3","toSide":"top","label":"New Tile"},
+		{"id":"909c5befa7aeb30b","fromNode":"5cd3df7bff83a3ae","fromSide":"left","toNode":"5d2800cf0fc38916","toSide":"left","label":"Next Tile"},
+		{"id":"ade5d31c615dbc98","fromNode":"5f416e4a3e3e4fb0","fromSide":"bottom","toNode":"e1546ea51b62b8c3","toSide":"top"},
+		{"id":"d185b5b238450923","fromNode":"d9039e6bd6019f85","fromSide":"bottom","toNode":"324dde1a12436c3f","toSide":"top","label":"Searchable"},
+		{"id":"34e15b83d90a9f9b","fromNode":"324dde1a12436c3f","fromSide":"bottom","toNode":"e1546ea51b62b8c3","toSide":"top"},
+		{"id":"806b01c8ac6769ba","fromNode":"324dde1a12436c3f","fromSide":"right","toNode":"4a2a4f0bcf46bc6a","toSide":"left","label":"Wandering\nEnemies"},
+		{"id":"43dddb18e927f0fc","fromNode":"5f416e4a3e3e4fb0","fromSide":"bottom","toNode":"4a2a4f0bcf46bc6a","toSide":"top","label":"Wandering\nEnemies"},
+		{"id":"c5f0a9c9d3e06f26","fromNode":"5cd3df7bff83a3ae","fromSide":"bottom","toNode":"096739358c1a6aae","toSide":"top","label":"Leave"},
+		{"id":"b16f360cadad0dbc","fromNode":"171696cd18972c33","fromSide":"bottom","toNode":"5d2800cf0fc38916","toSide":"top","label":"Enter Entrance"},
+		{"id":"a70e7289a66f166d","fromNode":"4a2a4f0bcf46bc6a","fromSide":"bottom","toNode":"ccae8303b1299d61","toSide":"top"},
+		{"id":"558fff5dcd581a46","fromNode":"4a2a4f0bcf46bc6a","fromSide":"bottom","toNode":"43d6eb69befb80a2","toSide":"top"},
+		{"id":"27ca0ee16f9d9fc1","fromNode":"ccae8303b1299d61","fromSide":"bottom","toNode":"fd1061c5fe70c5bf","toSide":"top"},
+		{"id":"2f4942f45f83a01d","fromNode":"43d6eb69befb80a2","fromSide":"bottom","toNode":"fd1061c5fe70c5bf","toSide":"top"},
+		{"id":"721de7ac031f08b6","fromNode":"fd1061c5fe70c5bf","fromSide":"left","toNode":"e1546ea51b62b8c3","toSide":"right"}
+	]
+}

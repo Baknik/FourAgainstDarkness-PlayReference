@@ -1,0 +1,30 @@
+formulas:
+  Untitled: number(value) * 2
+properties:
+  file.name:
+    displayName: Name
+  note.value:
+    displayName: Value
+  note.stack_size:
+    displayName: Stack Size
+  formula.Untitled:
+    displayName: Price
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.tags.containsAll("item")
+        - or:
+            - '!file.tags.containsAny("magical")'
+    order:
+      - file.name
+      - formula.Untitled
+      - value
+      - stack_size
+      - file.tags
+    sort:
+      - property: formula.Untitled
+        direction: ASC
+    markers: bullet
+    indentProperties: false

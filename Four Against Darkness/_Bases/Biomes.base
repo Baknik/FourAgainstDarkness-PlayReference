@@ -1,0 +1,12 @@
+formulas:
+  Untitled: |
+    y
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.hasTag("biome")
+    order:
+      - file.name
+      - formula.Untitled

@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"004ec7c95a120277","type":"text","text":"[[Overworld Flow.canvas]]\n","x":-260,"y":-300,"width":260,"height":60,"color":"4"},
+		{"id":"83b1c1e6fcbffd70","type":"text","text":"[[Town Flow.canvas|Town]]","x":-531,"y":120,"width":93,"height":60,"color":"5"},
+		{"id":"e5203087edfe222e","type":"text","text":"Normal Adventure Flow","x":-464,"y":-400,"width":264,"height":50},
+		{"id":"1c49462d221c70ba","type":"text","text":"Undercity Adventure Flow","x":-428,"y":20,"width":292,"height":50},
+		{"id":"89652eb00af00878","type":"text","text":"[[Town Flow.canvas|Town]]","x":20,"y":-15,"width":93,"height":60,"color":"5"},
+		{"id":"67b952a7bc98921b","type":"text","text":"[[Overworld Flow.canvas]]\n","x":300,"y":-15,"width":260,"height":60,"color":"4"},
+		{"id":"663d6674e2d7d15b","type":"text","text":"[[Adventure Flow.canvas]]","x":-260,"y":120,"width":260,"height":60,"color":"6"},
+		{"id":"98e2668f6f171072","type":"text","text":"[[Adventure Flow.canvas]]","x":60,"y":-300,"width":260,"height":60,"color":"6"},
+		{"id":"403962dd8db703ba","type":"text","text":"Exploration Flow","x":125,"y":-115,"width":292,"height":50},
+		{"id":"27c84174f2979172","type":"text","text":"[[Town Flow.canvas|Town]]\n","x":-406,"y":-300,"width":93,"height":60,"color":"5"}
+	],
+	"edges":[
+		{"id":"adbc42d6b7d8de1c","fromNode":"27c84174f2979172","fromSide":"right","toNode":"004ec7c95a120277","toSide":"left"},
+		{"id":"e621d6d562465745","fromNode":"004ec7c95a120277","fromSide":"right","toNode":"98e2668f6f171072","toSide":"left"},
+		{"id":"ce62ecddf2951248","fromNode":"83b1c1e6fcbffd70","fromSide":"right","toNode":"663d6674e2d7d15b","toSide":"left"},
+		{"id":"e8ef8dde3aefc10f","fromNode":"663d6674e2d7d15b","fromSide":"bottom","toNode":"83b1c1e6fcbffd70","toSide":"bottom"},
+		{"id":"2be4694e41865bb7","fromNode":"89652eb00af00878","fromSide":"right","toNode":"67b952a7bc98921b","toSide":"left"},
+		{"id":"66b5b3196a18fd93","fromNode":"67b952a7bc98921b","fromSide":"bottom","toNode":"89652eb00af00878","toSide":"bottom"},
+		{"id":"365643ffc18deb2d","fromNode":"98e2668f6f171072","fromSide":"top","toNode":"004ec7c95a120277","toSide":"top"},
+		{"id":"8eadce10f852aa81","fromNode":"004ec7c95a120277","fromSide":"bottom","toNode":"27c84174f2979172","toSide":"bottom"}
+	]
+}
