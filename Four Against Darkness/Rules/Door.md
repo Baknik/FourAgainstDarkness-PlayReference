@@ -10,4 +10,4 @@ When the [[Party]] approaches a door, roll on the following table.
 |  11   |                                                                                                                                                                                                                                                                                                                                                    |
 |  12   |                                                                                                                                                                                                                                                                                                                                                    
 
-#rule #table
+#rule

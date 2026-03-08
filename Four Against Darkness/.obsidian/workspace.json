@@ -4,21 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "5316cd955aafe051",
+        "id": "11426f1814877d18",
         "type": "tabs",
         "children": [
           {
-            "id": "a5bae1eba654b5ee",
+            "id": "769ea5dcdcb052ab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "__Playthroughs/Character Test.md",
-                "mode": "source",
-                "source": false
+                "file": "_Bases/General Store.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Character Test"
+              "icon": "lucide-table",
+              "title": "General Store"
             }
           }
         ]
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__Playthroughs/Character Test.md",
+                "file": "_Bases/General Store.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Character Test"
+              "title": "Backlinks for General Store"
             }
           },
           {
@@ -113,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rules/Lycanthropy.md",
+                "file": "_Bases/General Store.base",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Lycanthropy"
+              "title": "Outgoing links from General Store"
             }
           },
           {
@@ -171,13 +170,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "__Playthroughs/Character 1.md"
+                "file": "__Playthroughs/Playthrough 1.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Character 1"
+              "title": "File properties for Playthrough 1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -195,46 +195,46 @@
       "bases:Create new base": false
     }
   },
-  "active": "a5bae1eba654b5ee",
+  "active": "769ea5dcdcb052ab",
   "lastOpenFiles": [
+    "__Playthroughs/Lume.md",
+    "Classes/Illusionist.md",
+    "_Templates/Character Template.md",
+    "Untitled.md",
+    "Traits/Street Thug.md",
+    "Traits/Spectral Trickster.md",
+    "Statuses/Invisible.md",
     "Traits/Escaped Slave.md",
-    "Classes/Barbarian.md",
-    "__Playthroughs/Character Test.md",
-    "__Playthroughs/Character 4.md",
-    "__Playthroughs/Character 3.md",
-    "__Playthroughs/Character 2.md",
-    "Traits",
-    "Saves/Strength.md",
-    "Saves/Lockpicking.md",
-    "Town/Buildings/General Store.md",
-    "Town/Buildings/Temple.md",
+    "Saves/Stealth.md",
+    "Classes/Wizard.md",
+    "Classes/Untitled.md",
+    "_Bases/General Store.base",
+    "_Bases/Biomes.base",
+    "_Bases/Temple.base",
+    "Items/Walking Stick.md",
+    "Items/Sword.md",
+    "Items/Simple Shield.md",
+    "Items/Simple Light Armor.md",
+    "Items/Simple Heavy Armor.md",
+    "Items/Simple Clothing.md",
+    "Items/Scroll Of Blessing.md",
+    "Items/Rope.md",
+    "Items/Lockpicks.md",
     "Items/Lantern.md",
     "Items/Flask of Flammable Oil.md",
-    "Biomes/The Abyss.md",
-    "_Bases/General Store.base",
-    "_Bases/Temple.base",
-    "Magical.md",
-    "Classes",
-    "Playthrough 1",
-    "_Templates/Save Template.md",
-    "Items/Scroll Of Blessing.md",
-    "__Playthroughs",
-    "_Bases/Biomes.base",
-    "Rules/Encounter.md",
-    "Flammable.md",
-    "Rules/Hit.md",
-    "Rules/Attack.md",
-    "Items",
-    "Untitled.md",
-    "Rules/Darkness.md",
+    "Items/Dagger.md",
+    "Items/Cudgel.md",
+    "Rules/Light Armor.md",
+    "Rules/Clothing.md",
+    "_Bases/Illusion Spells.base",
+    "Spells",
+    "Statuses",
     "_Canvas/Adventure Flow.canvas",
-    "Rules/Door.md",
-    "Rules/Character.md",
-    "Rules/Save.md",
-    "Rules/Wandering Enemy.md",
+    "Traits",
+    "Classes",
+    "__Playthroughs",
+    "Items",
     "_Canvas/Main Flows.canvas",
-    "_Canvas",
-    "_Templates",
     "Untitled.canvas"
   ]
 }

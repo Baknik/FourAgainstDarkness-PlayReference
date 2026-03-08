@@ -1,6 +1,6 @@
 Ranged attacks are [[Attack]]s (including [[Spell]] [[Attack]]s) that can only be made in certain conditions.
 
-First, either a ranged [[Weapon]] must be equipped, or at least one hand must be empty to cast a [[Spell]]. 
+First, either a [[Ranged Weapon]] or [[Light Ranged Weapon]] must be equipped, or at least one hand must be empty to cast a [[Spell]]. 
 Then, any of the following conditions must be true.
 - It's the first round of [[Combat]]
 - The attacker is in a [[Corrider]] and is **not** in melee with the enemy.

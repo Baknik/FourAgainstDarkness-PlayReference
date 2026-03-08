@@ -1,5 +1,6 @@
 formulas:
-  Untitled: number(value) * 2
+  Untitled: max((number(value) * 2).floor(), 1)
+  Sell Value: max(value.floor(), 1)
 properties:
   file.name:
     displayName: Name
@@ -20,8 +21,7 @@ views:
     order:
       - file.name
       - formula.Untitled
-      - value
-      - stack_size
+      - formula.Sell Value
       - file.tags
     sort:
       - property: formula.Untitled

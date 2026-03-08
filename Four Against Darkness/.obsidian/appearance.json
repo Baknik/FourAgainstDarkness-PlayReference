@@ -1,7 +1,7 @@
 {
   "theme": "obsidian",
   "showRibbon": true,
-  "baseFontSize": 20,
+  "baseFontSize": 13,
   "baseFontSizeAction": false,
   "enabledCssSnippets": [
     "table_spacing"

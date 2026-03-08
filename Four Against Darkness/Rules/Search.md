@@ -2,7 +2,7 @@ When searching, roll on the following table.
 
 | `d6`  | Search Result                                                    |
 | :---: | ---------------------------------------------------------------- |
-|  `1`  | A [[Wandering Enemy]] [[Ambush]]es the party                     |
+|  `1`  | A [[Wandering Enemy]] [[Surprise]]s the party                    |
 | `2-4` | Nothing is found                                                 |
 | `5-6` | Something has been found! Roll on the [[#Search Findings]] table |
 #### Search Findings
@@ -11,7 +11,4 @@ When searching, roll on the following table.
 | `1-2` | A [[Clue]]            |
 | `3-4` | A [[Hidden Treasure]] |
 | `5-6` | A [[Secret Door]]     |
-
-The party can't search in [[Darkness]].
-
-#rule #table
+#rule
