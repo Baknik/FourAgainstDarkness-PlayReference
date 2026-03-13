@@ -1,4 +1,5 @@
-When asked to make a wandering enemy roll, there is a `1-in-6` chance that one appears.
+When asked to make a wandering enemy roll, there is a `1-in-6` chance that one appears. They always [[Surprise]] the party.
+
 When a wandering enemy appears, roll on the table below to determine it's type.
 
 | `d6`  | Enemy Type |

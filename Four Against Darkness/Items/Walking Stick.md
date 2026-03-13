@@ -1,6 +1,6 @@
 ---
 value: 2.5
 ---
-A crushing [[Hand Weapon]].
+A crushing [[Light Hand Weapon]].
 
-#equipment #hand #crushing #weapon #item #melee
+#equipment #crushing #weapon #item #melee #light_hand 

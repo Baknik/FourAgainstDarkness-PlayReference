@@ -1,6 +1,6 @@
 ---
 value: 0.5
 ---
-A simple set of [[Light Armor]].
+A simple set of clothing.
 
-#equipment #item #armor
+#equipment #item #clothing

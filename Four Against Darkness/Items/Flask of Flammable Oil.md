@@ -5,4 +5,4 @@ Can be thrown as a [[Ranged]] [[Attack]]. On [[Hit]], it makes the target [[Flam
 
 Can also be used to refill [[Lantern]]s.
 
-#item #consumable #ranged
+#item #consumable #ranged #throwable

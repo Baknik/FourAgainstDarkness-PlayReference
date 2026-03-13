@@ -3,5 +3,6 @@
   "spellcheck": false,
   "alwaysUpdateLinks": true,
   "livePreview": true,
-  "propertiesInDocument": "visible"
+  "propertiesInDocument": "visible",
+  "focusNewTab": false
 }

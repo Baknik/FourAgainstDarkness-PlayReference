@@ -1,6 +1,14 @@
 views:
-  - type: table
+  - type: list
     name: Table
     filters:
       and:
         - file.tags.containsAll("spell", "illusion")
+    order:
+      - file.name
+    sort:
+      - property: formula.Untitled
+        direction: ASC
+    markers: number
+    image: note.tags
+    indentProperties: false

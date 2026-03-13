@@ -1,18 +1,13 @@
-| **Level** | **[[Tier]]** | Wounds | **XP** | **[[Madness]]** | [[Melancholy]] | **[[Short Rest]]** | Status |
-| :-------: | :----------: | :----: | :----: | :-------------: | :------------: | :----------------: | ------ |
-|     1     |    Basic     |   0    |   0    |        0        |       0        |         0          |        |
+| **Level** | **[[Tier]]** | **Class** | **Trait** | **[[Companion]]** | **[[Retainer]]** | **[[Madness]]** |
+| :-------: | :----------: | :-------: | :-------: | :---------------: | :--------------: | :-------------: |
+|     1     |    Basic     |           |           |                   |                  |        0        |
 
-| **Life** | **Defense** | **Melee** | **Ranged** | **Spell** | **Unarmed** |
-| :------: | :---------: | :-------: | :--------: | :-------: | :---------: |
-|          |             |           |            |           |             |
+| **[[Melee]]** | **[[Ranged]]** | **[[Spell]]** | **[[Defense]]** | **[[Unarmed]]** |
+| :-----------: | :------------: | :-----------: | :-------------: | :-------------: |
+|               |                |               |                 |                 |
 
-| **Class** |     | **Companion** |     |
-| --------- | --- | ------------- | --- |
-| **Trait** |     | **Retainer**  |     |
-
-| **Ability/Spell Uses** |     |
-| ---------------------- | :-: |
-|                        |     |
+| **Status** |     |
+| ---------- | --- |
 
 | **`L1` Skill** |     | **`L11` Skill** |     |
 | -------------- | --- | --------------- | --- |
@@ -20,10 +15,6 @@
 | **`L5` Skill** |     | **`L15` Skill** |     |
 | **`L7` Skill** |     | **`L17` Skill** |     |
 | **`L9` Skill** |     | **`L19` Skill** |     |
-
-| **Gold (max 200)** | **Gems** | **Jewelry** |
-| ------------------ | -------- | ----------- |
-| 0                  |          |             |
 
 | **Equipment Slot** | **Equipped Item Name** |
 | :----------------- | :--------------------- |
@@ -47,9 +38,9 @@
 | [[Weapon]]               |                          |
 | [[Weapon]]               |                          |
 | [[Shield]]               |                          |
-Carrying more [[Armor]], [[Weapon]]s, [[Shield]]s, or Gold causes you to become [[Overencumbered]].
-
+Carrying more [[Armor]], [[Weapon]]s, [[Shield]]s, or [[Gold]] causes you to become [[Overencumbered]].
 ##### Notes
 
 
 
+#playthrough 

@@ -4,20 +4,124 @@
     "type": "split",
     "children": [
       {
-        "id": "11426f1814877d18",
-        "type": "tabs",
+        "id": "358a31ca35ca9081",
+        "type": "split",
+        "dimension": 57.95128939828081,
         "children": [
           {
-            "id": "769ea5dcdcb052ab",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "_Bases/General Store.base",
-                "viewName": "Table"
+            "id": "7b40b4cf012eedcc",
+            "type": "tabs",
+            "dimension": 63.377192982456144,
+            "children": [
+              {
+                "id": "07f7fe494aa1fb21",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Biomes/The Abyss.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "The Abyss"
+                }
+              }
+            ]
+          },
+          {
+            "id": "a6aa9f2298f625b9",
+            "type": "tabs",
+            "dimension": 36.622807017543856,
+            "children": [
+              {
+                "id": "4079cba50fc8e29c",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "__Playthroughs/Party.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Party"
+                }
               },
-              "icon": "lucide-table",
-              "title": "General Store"
+              {
+                "id": "986218e8a3b9d920",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "__Playthroughs/Settlements.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Settlements"
+                }
+              },
+              {
+                "id": "769ea5dcdcb052ab",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "__Playthroughs/Residences.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Residences"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "91d65032e70268cc",
+        "type": "tabs",
+        "dimension": 42.04871060171919,
+        "children": [
+          {
+            "id": "e13cba775cfe8c4a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "__Playthroughs/Lume.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Lume"
+            }
+          },
+          {
+            "id": "9a0a16facfbfa255",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "__Playthroughs/Vex.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Vex"
             }
           }
         ]
@@ -77,7 +181,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "112ba972e33be2d2",
@@ -93,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Bases/General Store.base",
+                "file": "__Playthroughs/Party.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +208,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for General Store"
+              "title": "Backlinks for Party"
             }
           },
           {
@@ -112,12 +217,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Bases/General Store.base",
+                "file": "__Playthroughs/Party.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from General Store"
+              "title": "Outgoing links from Party"
             }
           },
           {
@@ -195,45 +300,45 @@
       "bases:Create new base": false
     }
   },
-  "active": "769ea5dcdcb052ab",
+  "active": "4079cba50fc8e29c",
   "lastOpenFiles": [
-    "__Playthroughs/Lume.md",
-    "Classes/Illusionist.md",
-    "_Templates/Character Template.md",
-    "Untitled.md",
-    "Traits/Street Thug.md",
-    "Traits/Spectral Trickster.md",
-    "Statuses/Invisible.md",
-    "Traits/Escaped Slave.md",
-    "Saves/Stealth.md",
-    "Classes/Wizard.md",
-    "Classes/Untitled.md",
-    "_Bases/General Store.base",
-    "_Bases/Biomes.base",
-    "_Bases/Temple.base",
-    "Items/Walking Stick.md",
-    "Items/Sword.md",
-    "Items/Simple Shield.md",
-    "Items/Simple Light Armor.md",
-    "Items/Simple Heavy Armor.md",
-    "Items/Simple Clothing.md",
-    "Items/Scroll Of Blessing.md",
-    "Items/Rope.md",
-    "Items/Lockpicks.md",
-    "Items/Lantern.md",
-    "Items/Flask of Flammable Oil.md",
-    "Items/Dagger.md",
-    "Items/Cudgel.md",
-    "Rules/Light Armor.md",
-    "Rules/Clothing.md",
+    "__Playthroughs/Settlements.md",
+    "__Playthroughs/Residences.md",
+    "__Playthroughs/Party.md",
+    "Biomes/The Abyss.md",
     "_Bases/Illusion Spells.base",
+    "Rules/Overencumbered.md",
+    "__Playthroughs/Lume.md",
+    "Rules/Long Rest.md",
+    "Classes/Illusionist.md",
+    "Spells/Continual Light.md",
+    "Saves/Stealth.md",
+    "Spells/Illusionary Sword.md",
+    "Items/Sword.md",
+    "Spells/Shadow Strike.md",
+    "Spells/Illusionary Knife Throw.md",
+    "Spells/Illusionary Banquet.md",
+    "Spells/Mirage of Fortune.md",
+    "Spells/Specter Swarm.md",
+    "Spells/Disbelief.md",
+    "Spells/Distracting Lights.md",
+    "Spells/Glamour Mask.md",
+    "Spells/Illusionary Armor.md",
+    "Spells/Illusionary Fog.md",
+    "Spells/Illusionary Mirror Image.md",
+    "Spells/Illusionary Servant.md",
+    "Spells/Phantasmal Binding.md",
+    "Rules/Hit.md",
+    "Enemies",
+    "__Playthroughs/Playthrough 1",
+    "_Bases/Biomes.base",
+    "_Canvas/Adventure Flow.canvas",
+    "Towns",
+    "_Bases/General Store.base",
+    "_Bases/Temple.base",
     "Spells",
     "Statuses",
-    "_Canvas/Adventure Flow.canvas",
     "Traits",
-    "Classes",
-    "__Playthroughs",
-    "Items",
     "_Canvas/Main Flows.canvas",
     "Untitled.canvas"
   ]

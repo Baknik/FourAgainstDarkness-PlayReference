@@ -1,4 +1,3 @@
-#### Traits
 [[Darkness|Dark]], [[Indoors]]
 #### Content
 | `2d6` | Content Type                                                                                                                                                                                                                                                                                                                                       |
