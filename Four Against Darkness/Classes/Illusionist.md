@@ -14,7 +14,8 @@ Has `L+3` [[Spell]] uses.
 Knows all #illusion [[Spell]]s. Cannot learn additional [[Spell]]s.
 
 Can cast [[Distracting Lights]] without spending a [[Spell]] use. Once cast successfully, it cannot be cast again this [[Encounter]].
-
-![[Illusion Spells.base]]
-
+##### Illusion Spells
+![[Basic Illusion Spells.base]]
+##### Skills
+![[Illusionist Skills.base]]
 #class #human #spellcaster

@@ -4,6 +4,7 @@ views:
     filters:
       and:
         - file.tags.containsAll("spell", "illusion")
+        - file.tags.contains("basic")
     order:
       - file.name
     sort:

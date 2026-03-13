@@ -4,38 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "358a31ca35ca9081",
+        "id": "c25d93783789fd3f",
         "type": "split",
         "dimension": 57.95128939828081,
         "children": [
           {
-            "id": "7b40b4cf012eedcc",
+            "id": "a6aa9f2298f625b9",
             "type": "tabs",
-            "dimension": 63.377192982456144,
+            "dimension": 63.70614035087719,
             "children": [
               {
-                "id": "07f7fe494aa1fb21",
+                "id": "4079cba50fc8e29c",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Biomes/The Abyss.md",
+                    "file": "Rules/Final Boss.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "The Abyss"
+                  "title": "Final Boss"
                 }
               }
             ]
           },
           {
-            "id": "a6aa9f2298f625b9",
+            "id": "01111d73dd4c74ac",
             "type": "tabs",
-            "dimension": 36.622807017543856,
+            "dimension": 36.29385964912281,
             "children": [
               {
-                "id": "4079cba50fc8e29c",
+                "id": "9be7c33d7953ea88",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -82,7 +82,8 @@
                   "title": "Residences"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -92,22 +93,6 @@
         "type": "tabs",
         "dimension": 42.04871060171919,
         "children": [
-          {
-            "id": "e13cba775cfe8c4a",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "__Playthroughs/Lume.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Lume"
-            }
-          },
           {
             "id": "9a0a16facfbfa255",
             "type": "leaf",
@@ -122,6 +107,38 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "Vex"
+            }
+          },
+          {
+            "id": "01d79eca83e5d9f6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "__Playthroughs/Garr.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Garr"
+            }
+          },
+          {
+            "id": "e13cba775cfe8c4a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "__Playthroughs/Lume.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Lume"
             }
           }
         ]
@@ -198,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__Playthroughs/Party.md",
+                "file": "Rules/Final Boss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +225,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Party"
+              "title": "Backlinks for Final Boss"
             }
           },
           {
@@ -217,12 +234,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "__Playthroughs/Party.md",
+                "file": "Rules/Final Boss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Party"
+              "title": "Outgoing links from Final Boss"
             }
           },
           {
@@ -302,43 +319,43 @@
   },
   "active": "4079cba50fc8e29c",
   "lastOpenFiles": [
-    "__Playthroughs/Settlements.md",
-    "__Playthroughs/Residences.md",
-    "__Playthroughs/Party.md",
-    "Biomes/The Abyss.md",
-    "_Bases/Illusion Spells.base",
-    "Rules/Overencumbered.md",
+    "Enemies/Invisible Gremlins.md",
+    "__Playthroughs/Vex.md",
+    "__Playthroughs/Garr.md",
     "__Playthroughs/Lume.md",
-    "Rules/Long Rest.md",
+    "_Bases/Skill Tables/Bulwark Skills.base",
+    "__Playthroughs/Settlements.md",
+    "__Playthroughs/Party.md",
+    "Classes/Bulwark.md",
+    "Classes/Rogue.md",
     "Classes/Illusionist.md",
-    "Spells/Continual Light.md",
-    "Saves/Stealth.md",
-    "Spells/Illusionary Sword.md",
+    "Classes/Barbarian.md",
+    "Classes/Wizard.md",
+    "_Bases/Skill Tables/Rogue Skills.base",
+    "_Bases/Skill Tables/Illusionist Skills.base",
+    "_Bases/Spell Tables",
+    "_Bases/Spell Tables/Basic Illusion Spells.base",
+    "Traits/Stubborn Endurance.md",
+    "Skills/Sacrifice Defense.md",
+    "Skills/Shield Sacrifice.md",
+    "Traits/Spectral Trickster.md",
+    "Items/Simple Heavy Armor.md",
+    "Rules/Heavy Armor.md",
+    "Items/Simple Shield.md",
+    "Rules/Shield.md",
+    "Rules/Mount.md",
+    "_Bases/Skill Tables",
+    "Skills",
     "Items/Sword.md",
-    "Spells/Shadow Strike.md",
-    "Spells/Illusionary Knife Throw.md",
-    "Spells/Illusionary Banquet.md",
-    "Spells/Mirage of Fortune.md",
-    "Spells/Specter Swarm.md",
-    "Spells/Disbelief.md",
-    "Spells/Distracting Lights.md",
-    "Spells/Glamour Mask.md",
-    "Spells/Illusionary Armor.md",
-    "Spells/Illusionary Fog.md",
-    "Spells/Illusionary Mirror Image.md",
-    "Spells/Illusionary Servant.md",
-    "Spells/Phantasmal Binding.md",
-    "Rules/Hit.md",
+    "Items/Hammer.md",
+    "__Playthroughs/Residences.md",
+    "Biomes/The Abyss.md",
+    "Rules/Overencumbered.md",
+    "Rules/Long Rest.md",
     "Enemies",
     "__Playthroughs/Playthrough 1",
     "_Bases/Biomes.base",
     "_Canvas/Adventure Flow.canvas",
-    "Towns",
-    "_Bases/General Store.base",
-    "_Bases/Temple.base",
-    "Spells",
-    "Statuses",
-    "Traits",
     "_Canvas/Main Flows.canvas",
     "Untitled.canvas"
   ]

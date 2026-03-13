@@ -1,11 +1,13 @@
+| **Level** | **[[Tier]]** |  **Class**  |       **Trait**        | **[[Companion]]** | **[[Retainer]]** | **[[Madness]]** |
+| :-------: | :----------: | :---------: | :--------------------: | :---------------: | :--------------: | :-------------: |
+|     1     |    Basic     | [[Bulwark]] | [[Stubborn Endurance]] |                   |                  |        0        |
 
-| **Level** | **[[Tier]]** | **Class** |    **Trait**    | **[[Companion]]** | **[[Retainer]]** | **[[Madness]]** |
-| :-------: | :----------: | :-------: | :-------------: | :---------------: | :--------------: | :-------------: |
-|     1     |    Basic     | [[Rogue]] | [[Street Thug]] |                   |                  |        0        |
+| Life | **[[Defense]]** | **[[Melee]]** | **[[Ranged]]** | **[[Spell]]** | **[[Unarmed]]** |
+| :--: | :-------------: | :-----------: | :------------: | :-----------: | :-------------: |
+|  9   |       +3        |      +0       |       +1       |      +1       |       -2        |
 
-| **Life** | **[[Defense]]** |      **[[Melee]]**      |     **[[Ranged]]**      | **[[Spell]]** | **[[Unarmed]]** |
-| :------: | :-------------: | :---------------------: | :---------------------: | :-----------: | :-------------: |
-|    5     |       +2        | +1 vs outnumbered minor | +1 vs outnumbered minor |      +1       |       -2        |
+| **Status** |     |
+| ---------- | --- |
 
 | **`L1` Skill** |     | **`L11` Skill** |     |
 | -------------- | --- | --------------- | --- |
@@ -16,15 +18,15 @@
 
 | **Equipment Slot** | **Equipped Item Name** |
 | :----------------- | :--------------------- |
-| [[Armor]]          | [[Simple Light Armor]] |
-| Main Hand          | [[Sword]]              |
-| Offhand            |                        |
+| [[Armor]]          | [[Simple Heavy Armor]] |
+| Main Hand          | [[Hammer]]             |
+| Offhand            | [[Simple Shield]]      |
 |                    |                        |
 
 | **Backpack Item Name** | Number Carried |
 | ---------------------- | -------------- |
-| [[Rope]]               | 1              |
-| [[Lockpicks]]          | 1              |
+|                        |                |
+|                        |                |
 
 | **Spare Equipment Type** | **Spare Equipment Name** |
 | ------------------------ | ------------------------ |

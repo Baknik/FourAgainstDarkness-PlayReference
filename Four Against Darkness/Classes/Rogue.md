@@ -9,4 +9,6 @@
 
 | **Starts With** | [[Light Armor]], [[Light Hand Weapon]], [[Rope]], [[Lockpicks]], `3d6`gp |
 | --------------- | ------------------------------------------------------------------------ |
+##### Skills
+![[Rogue Skills.base]]
 #class #human #scoundrel #core

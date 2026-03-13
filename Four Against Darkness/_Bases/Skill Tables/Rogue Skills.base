@@ -1,0 +1,10 @@
+views:
+  - type: list
+    name: Table
+    filters:
+      and:
+        - file.tags.containsAny("rogue")
+        - file.tags.contains("skill")
+    order:
+      - file.name
+    markers: none
