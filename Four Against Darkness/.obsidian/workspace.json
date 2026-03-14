@@ -19,12 +19,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Rules/Final Boss.md",
+                    "file": "Items/Axe.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Final Boss"
+                  "title": "Axe"
                 }
               }
             ]
@@ -82,8 +82,7 @@
                   "title": "Residences"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "horizontal"
@@ -140,8 +139,25 @@
               "icon": "lucide-file",
               "title": "Lume"
             }
+          },
+          {
+            "id": "82101e02e1ad52fc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "__Playthroughs/Wren.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Wren"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -173,7 +189,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#illusion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -194,7 +210,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -215,7 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rules/Final Boss.md",
+                "file": "__Playthroughs/Party.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +242,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Final Boss"
+              "title": "Backlinks for Party"
             }
           },
           {
@@ -234,12 +251,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rules/Final Boss.md",
+                "file": "__Playthroughs/Party.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Final Boss"
+              "title": "Outgoing links from Party"
             }
           },
           {
@@ -317,44 +334,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "4079cba50fc8e29c",
+  "active": "9be7c33d7953ea88",
   "lastOpenFiles": [
-    "Enemies/Invisible Gremlins.md",
+    "__Playthroughs/Wren.md",
     "__Playthroughs/Vex.md",
     "__Playthroughs/Garr.md",
     "__Playthroughs/Lume.md",
-    "_Bases/Skill Tables/Bulwark Skills.base",
-    "__Playthroughs/Settlements.md",
-    "__Playthroughs/Party.md",
-    "Classes/Bulwark.md",
-    "Classes/Rogue.md",
-    "Classes/Illusionist.md",
-    "Classes/Barbarian.md",
-    "Classes/Wizard.md",
-    "_Bases/Skill Tables/Rogue Skills.base",
-    "_Bases/Skill Tables/Illusionist Skills.base",
-    "_Bases/Spell Tables",
-    "_Bases/Spell Tables/Basic Illusion Spells.base",
-    "Traits/Stubborn Endurance.md",
-    "Skills/Sacrifice Defense.md",
-    "Skills/Shield Sacrifice.md",
-    "Traits/Spectral Trickster.md",
-    "Items/Simple Heavy Armor.md",
-    "Rules/Heavy Armor.md",
-    "Items/Simple Shield.md",
-    "Rules/Shield.md",
-    "Rules/Mount.md",
-    "_Bases/Skill Tables",
-    "Skills",
+    "Items/Axe.md",
     "Items/Sword.md",
-    "Items/Hammer.md",
-    "__Playthroughs/Residences.md",
-    "Biomes/The Abyss.md",
-    "Rules/Overencumbered.md",
-    "Rules/Long Rest.md",
-    "Enemies",
-    "__Playthroughs/Playthrough 1",
+    "__Playthroughs/Party.md",
+    "_Bases/General Store.base",
+    "Traits/Spectral Trickster.md",
+    "Traits/Deadeye.md",
+    "Classes/Ranger.md",
+    "_Bases/Skill Tables/Ranger Skills.base",
+    "Rules/Surprise.md",
+    "Traits/Stubborn Endurance.md",
+    "Traits/Street Thug.md",
+    "Traits/Escaped Slave.md",
+    "Statuses/The Dark Plague.md",
+    "Statuses/Lycanthropy.md",
+    "Statuses/Invisible.md",
+    "Statuses/Flammable.md",
+    "Statuses/Distracted.md",
+    "Spells/Specter Swarm.md",
+    "Spells/Shadow Strike.md",
+    "Spells/Phantasmal Binding.md",
+    "Spells/Mirage of Fortune.md",
+    "Spells/Illusionary Sword.md",
+    "Spells/Illusionary Servant.md",
+    "Spells/Illusionary Mirror Image.md",
+    "_Bases/Skill Tables/Bulwark Skills.base",
+    "_Bases/Skill Tables/Illusionist Skills.base",
+    "_Bases/Skill Tables/Rogue Skills.base",
+    "_Bases/All Enemies.base",
     "_Bases/Biomes.base",
+    "_Bases/Spell Tables/Basic Illusion Spells.base",
+    "_Bases/Spell Tables",
+    "_Bases/Skill Tables",
     "_Canvas/Adventure Flow.canvas",
     "_Canvas/Main Flows.canvas",
     "Untitled.canvas"

@@ -4,6 +4,6 @@ Once the enemy is brought to `0` life in this way, they must be [[Bound]], eithe
 
 [[Spell]]s that deal damage **cannot** be used to subdue, but [[Sleep]] will subdue instantly.
 
-[[Vermin]], [[Horde]]s, and #unliving enemies **cannot** be subdued.
+[[Vermin]], [[Horde]]s, and unliving enemies **cannot** be subdued.
 
 #rule 

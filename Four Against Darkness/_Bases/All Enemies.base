@@ -3,9 +3,7 @@ views:
     name: Table
     filters:
       and:
-        - file.tags.containsAny("rogue")
-        - file.tags.contains("skill")
+        - file.tags.contains("enemy")
     order:
       - file.name
       - file.tags
-    markers: none

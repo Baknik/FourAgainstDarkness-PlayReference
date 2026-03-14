@@ -1,3 +1,3 @@
-A medium sized [[Melee]] [[Weapon]] that provides a `+0` [[Attack]] bonus and can be wielded in one hand.
+A medium sized [[Melee]] [[Weapon]] that provides no [[Attack]] bonus and can be wielded in one hand.
 
 #rule

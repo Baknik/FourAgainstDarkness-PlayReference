@@ -11,4 +11,5 @@
 | --------------- | ------------------------------------------------------------------------ |
 ##### Skills
 ![[Rogue Skills.base]]
-#class #human #scoundrel #core
+
+ #class #human #scoundrel #core

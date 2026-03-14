@@ -1,4 +1,5 @@
 
-| [[Class]] | Bonus  |
-| --------- | ------ |
+| Class | Bonus |
+| ----- | ----- |
+|       |       |
 #save #rule

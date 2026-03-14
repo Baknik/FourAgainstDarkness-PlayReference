@@ -1,5 +1,5 @@
 views:
-  - type: list
+  - type: table
     name: Table
     filters:
       and:
@@ -7,4 +7,5 @@ views:
         - file.tags.contains("skill")
     order:
       - file.name
+      - file.tags
     markers: none

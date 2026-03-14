@@ -15,4 +15,5 @@ Bulwarks only accept healing if either no other [[Character]] is damaged, or the
 A party may have a maximum of one Bulwark.
 ##### Skills
 ![[Bulwark Skills.base]]
+
 #class #human 

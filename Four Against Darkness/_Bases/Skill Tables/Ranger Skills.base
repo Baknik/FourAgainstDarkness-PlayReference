@@ -3,8 +3,8 @@ views:
     name: Table
     filters:
       and:
-        - file.tags.containsAny("rogue")
         - file.tags.contains("skill")
+        - file.tags.containsAny("ranger", "warrior", "rogue", "swashbuckler", "forester", "survival")
     order:
       - file.name
       - file.tags

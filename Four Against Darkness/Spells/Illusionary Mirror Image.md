@@ -1,4 +1,4 @@
-Create [[Tier]]+1 illusionary duplicates of yourself. They last until you start to [[Flee]] or [[Withdraw]], you cast [[Disbelief]], or the [[Encounter]] ends.
+Create `Tier + 1` illusionary duplicates of yourself. They last until you start to [[Flee]] or [[Withdraw]], you cast [[Disbelief]], or the [[Encounter]] ends.
 
 While you have duplicates, you may sacrifice one to absorb an attack that targets you, ignoring all of its effects.
 

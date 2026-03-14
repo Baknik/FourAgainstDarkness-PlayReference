@@ -1,6 +1,3 @@
-formulas:
-  Untitled: |
-    y
 views:
   - type: table
     name: Table
@@ -9,4 +6,4 @@ views:
         - file.hasTag("biome")
     order:
       - file.name
-      - formula.Untitled
+      - file.tags

@@ -43,4 +43,4 @@ Carrying more [[Armor]], [[Weapon]]s, [[Shield]]s, or [[Gold]] causes you to bec
 
 
 
-#playthrough 
+#playthrough #character 
