@@ -10,9 +10,9 @@ If the gremlins steal all of the party's items, they leave a "Thank You" note th
 
 If the gremlins can be seen or are no longer [[Invisible]], treat them as the following enemy:
 
-| **Number** |    **`L`**    |  **Type**  | **Treasure** |
-| :--------: | :-----------: | :--------: | :----------: |
-|  `d6 + 1`  | `1/2 HCL + 3` | [[Minion]] |   `1` roll   |
+| **Number** |    **`L`**    |  **Type**  | **Damage** | **Treasure** |
+| :--------: | :-----------: | :--------: | :--------: | :----------: |
+|  `d6 + 1`  | `1/2 HCL + 3` | [[Minion]] |     0      |   `1` roll   |
 Whenever a [[Character]] fails a [[Defense]] roll against them, instead of dealing damage, they steal one item from that [[Character]] based on the priority list above.
 
-#minion #enemy #weird #gremlin
+#enemy #weird #gremlin

@@ -1,4 +1,4 @@
 #### For Sale
 ![[General Store.base]]
 
-#building #town 
+#building #settlement 

@@ -2,9 +2,9 @@
 | :-------: | :----------: | :--------: | :---------: | :---------------: | :--------------: | :-------------: |
 |     1     |    Basic     | [[Ranger]] | [[Deadeye]] |                   |                  |        0        |
 
-| Life | **[[Defense]]** | **[[Melee]]** | **[[Ranged]]** | **[[Spell]]** | **[[Unarmed]]** |
-| :--: | :-------------: | :-----------: | :------------: | :-----------: | :-------------: |
-|  7   |       +1        |      +1       |       +1       |      +1       |       -2        |
+| Life | **[[Defense]]** |       **[[Melee]]**       |      **[[Ranged]]**       | **[[Spell]]** | **[[Unarmed]]** |
+| :--: | :-------------: | :-----------------------: | :-----------------------: | :-----------: | :-------------: |
+|  7   |       +0        | +1 or +0 for multi-attack | +1 or +0 for multi-attack |      +1       |       -2        |
 
 | **Status** |     |
 | ---------- | --- |
@@ -25,7 +25,7 @@
 
 | **Backpack Item Name** | Number Carried |
 | ---------------------- | -------------- |
-|                        |                |
+| [[Bandage]]            | 0              |
 |                        |                |
 
 | **Spare Equipment Type** | **Spare Equipment Name** |
@@ -37,6 +37,10 @@
 Carrying more [[Armor]], [[Weapon]]s, [[Shield]]s, or [[Gold]] causes you to become [[Overencumbered]].
 ##### Notes
 
+Damage: 2
 
+- [x] [[Relax]] used
+- [x] [[Bandage]] used
+- [ ] [[Druid]] [[Spell]] use
 
 #playthrough #character

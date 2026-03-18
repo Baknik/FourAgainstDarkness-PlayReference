@@ -1,5 +1,0 @@
-
-| Class | Bonus |
-| ----- | ----- |
-|       |       |
-#save #rule

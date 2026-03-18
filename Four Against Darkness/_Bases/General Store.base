@@ -16,8 +16,10 @@ views:
     filters:
       and:
         - file.tags.containsAll("item")
-        - or:
-            - '!file.tags.containsAny("magical")'
+        - '!file.tags.containsAny("magical", "religious")'
+        - not:
+            - value.isEmpty()
+            - value <= 0
     order:
       - file.name
       - formula.Untitled

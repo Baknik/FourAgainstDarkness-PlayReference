@@ -1,4 +1,4 @@
-When you take damage from a were creature, succeed a [[Resist Disease]] [[Save]] vs `5` or catch Lycanthropy ([[Halfling]] and [[Elf]] classes add `+1/2 L`).
+When you take damage from a were creature, succeed a [[Disease]] [[Save]] vs `5` or catch Lycanthropy ([[Halfling]] and [[Elf]] classes add `+1/2 L`).
 
 Lycanthropes cannot carry [[Silver]] items.
 Lycanthropes have an aversion to [[Fire]] and cannot carry [[Lanterns]].

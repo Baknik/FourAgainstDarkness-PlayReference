@@ -8,7 +8,7 @@ When searching, roll on the following table.
 #### Search Findings
 | `d6`  | Search Findings       |
 | :---: | --------------------- |
-| `1-2` | A [[Clue]]            |
-| `3-4` | A [[Hidden Treasure]] |
-| `5-6` | A [[Secret Door]]     |
+| `1-4` | A [[Clue]]            |
+|  `5`  | A [[Hidden Treasure]] |
+|  `6`  | A [[Secret Door]]     |
 #rule

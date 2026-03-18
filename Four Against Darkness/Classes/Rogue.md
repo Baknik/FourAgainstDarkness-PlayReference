@@ -9,6 +9,7 @@
 
 | **Starts With** | [[Light Armor]], [[Light Hand Weapon]], [[Rope]], [[Lockpicks]], `3d6`gp |
 | --------------- | ------------------------------------------------------------------------ |
+Rogues in position `1` or `2` of the [[Marching Order]] can detect and attempt to [[Disarm]] traps.
 ##### Skills
 ![[Rogue Skills.base]]
 

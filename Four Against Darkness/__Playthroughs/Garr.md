@@ -4,7 +4,7 @@
 
 | Life | **[[Defense]]** | **[[Melee]]** | **[[Ranged]]** | **[[Spell]]** | **[[Unarmed]]** |
 | :--: | :-------------: | :-----------: | :------------: | :-----------: | :-------------: |
-|  9   |       +3        |      +0       |       +1       |      +1       |       -2        |
+|  9   |       +0        |      +0       |       +1       |      +1       |       -2        |
 
 | **Status** |     |
 | ---------- | --- |
@@ -25,17 +25,22 @@
 
 | **Backpack Item Name** | Number Carried |
 | ---------------------- | -------------- |
-|                        |                |
+| [[Bandage]]            | 0              |
 |                        |                |
 
 | **Spare Equipment Type** | **Spare Equipment Name** |
 | ------------------------ | ------------------------ |
+| [[Weapon]]               | [[Hammer]]               |
 | [[Weapon]]               |                          |
 | [[Weapon]]               |                          |
 | [[Shield]]               |                          |
 Carrying more [[Armor]], [[Weapon]]s, [[Shield]]s, or [[Gold]] causes you to become [[Overencumbered]].
 ##### Notes
 
+Damage: 3
+
+- [x] [[Relax]] used
+- [x] [[Bandage]] used
 
 
 #playthrough #character
