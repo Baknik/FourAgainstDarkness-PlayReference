@@ -26,21 +26,15 @@
 | **Backpack Item Name** | Number Carried |
 | ---------------------- | -------------- |
 | [[Bandage]]            | 0              |
-|                        |                |
+| [[Fool's Gold]]        | 1              |
+| [[Torch]]              | 1              |
 
 | **Spare Equipment Type** | **Spare Equipment Name** |
 | ------------------------ | ------------------------ |
 | [[Weapon]]               | [[Hammer]]               |
-| [[Weapon]]               |                          |
-| [[Weapon]]               |                          |
+| [[Weapon]]               | [[Sword]]                |
+| [[Weapon]]               | [[Bow]]                  |
 | [[Shield]]               |                          |
 Carrying more [[Armor]], [[Weapon]]s, [[Shield]]s, or [[Gold]] causes you to become [[Overencumbered]].
-##### Notes
-
-Damage: 3
-
-- [x] [[Relax]] used
-- [x] [[Bandage]] used
-
 
 #playthrough #character

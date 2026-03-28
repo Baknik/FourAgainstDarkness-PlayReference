@@ -6,8 +6,8 @@
 | :--: | :-------------: | :-----------------------: | :-----------------------: | :-----------: | :-------------: |
 |  7   |       +0        | +1 or +0 for multi-attack | +1 or +0 for multi-attack |      +1       |       -2        |
 
-| **Status** |     |
-| ---------- | --- |
+| **Status** | [[Dead]] |
+| ---------- | -------- |
 
 | **`L1` Skill** | [[Sworn Enemy]] - Kobolds | **`L11` Skill** |     |
 | -------------- | ------------------------- | --------------- | --- |
@@ -19,7 +19,7 @@
 | **Equipment Slot** | **Equipped Item Name** |
 | :----------------- | :--------------------- |
 | [[Armor]]          | [[Simple Light Armor]] |
-| Main Hand          | [[Bow]]                |
+| Main Hand          |                        |
 | Offhand            |                        |
 |                    |                        |
 
@@ -30,17 +30,10 @@
 
 | **Spare Equipment Type** | **Spare Equipment Name** |
 | ------------------------ | ------------------------ |
-| [[Weapon]]               | [[Axe]]                  |
-| [[Weapon]]               | [[Axe]]                  |
-| [[Weapon]]               | [[Dagger]]               |
+| [[Weapon]]               |                          |
+| [[Weapon]]               |                          |
+| [[Weapon]]               |                          |
 | [[Shield]]               |                          |
 Carrying more [[Armor]], [[Weapon]]s, [[Shield]]s, or [[Gold]] causes you to become [[Overencumbered]].
-##### Notes
-
-Damage: 2
-
-- [x] [[Relax]] used
-- [x] [[Bandage]] used
-- [ ] [[Druid]] [[Spell]] use
 
 #playthrough #character

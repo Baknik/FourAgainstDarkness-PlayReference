@@ -24,7 +24,7 @@ These multi-attacks only add `+1/2 L` for each attack, and **cannot** explode. D
 Has `1` [[Spell]] use, only for [[Druid]] [[Spell]]s.
 Rangers don't start knowing any [[Spell]]s, but may learn [[Druid]] [[Spell]]s from [[Scroll]]s by making a successful XP roll. This destroys the [[Scroll]] and requires an available [[Skill]] slot.
 ##### Skills
-Rangers can start learning survival [[Skills]] at `L1`, and expert [[Skill]]s at `L3.
+Rangers can start learning survival [[Skills]] at `L1`, and expert [[Skill]]s at `L3`.
 
 They learn [[Sworn Enemy]] at `L1` without requiring an XP roll.
 

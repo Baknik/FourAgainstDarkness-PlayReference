@@ -1,0 +1,8 @@
+Can be found while [[Search]]ing. When found, first roll for a complication. After dealing with the complication, the party finds `(2d6 + HCL) x (2d6 + HCL)`gp.
+
+| **`d6`** | **Complication**                                                                                                                                                                                                                                                                                         |
+| -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `1-2`    | An alarm goes off, attracting a [[Wandering Enemy]]                                                                                                                                                                                                                                                      |
+| `3-5`    | The treasure is protected by a [[Trap]] of `L` `HCL + 1`.  You may choose any one [[Character]] to attempt a [[Disarm]] [[Save]]. If not disarmed, the trap targets one random [[Character]], who must succeed a [[Trap]] [[Save]] or take `1` damage. If they roll a `1`, they take `2` damage instead. |
+| `6`      | The treasure is protected by a ghost. Choose one [[Character]] to attempt a [[Piety]] [[Save]] against `HCL` to banish it. If not banished, all [[Character]]s lose `1` life.                                                                                                                            |
+ #rule 

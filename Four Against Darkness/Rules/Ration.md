@@ -1,3 +1,8 @@
-The party can hold a maximum of `10` rations for each [[Character]].
+---
+value: 0.5
+---
+Rations are used during wilderness travel between [[Settlement]]s and [[Adventure]]s.
 
-#rule 
+The party can hold a maximum of `40` rations.
+
+#rule #item #consumable #food
