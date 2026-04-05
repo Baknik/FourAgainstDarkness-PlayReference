@@ -21,19 +21,19 @@
 | :----------------- | :--------------------- |
 | [[Armor]]          | [[Simple Light Armor]] |
 | Main Hand          | [[Magic Sword]]        |
-| Offhand            | [[Lantern]]            |
+| Offhand            | [[Sling]]              |
 |                    |                        |
 
-| **Backpack Item Name**            | Number Carried |
-| --------------------------------- | -------------- |
-| [[Rope]]                          | 1              |
-| [[Lockpicks]]                     | 1              |
-| [[Bandage]]                       | 0              |
-| Sensitive Documents (`d6 x 20`gp) | 1              |
+| **Backpack Item Name** | Number Carried |
+| ---------------------- | -------------- |
+| [[Rope]]               | 1              |
+| [[Lockpicks]]          | 1              |
+| [[Bandage]]            | 1              |
+| [[Torch]]              | 1              |
 
 | **Spare Equipment Type** | **Spare Equipment Name** |
 | ------------------------ | ------------------------ |
-| [[Weapon]]               | [[Sling]]                |
+| [[Weapon]]               |                          |
 | [[Weapon]]               | [[Cudgel]]               |
 | [[Weapon]]               | [[Bone Sword]]           |
 | [[Shield]]               |                          |

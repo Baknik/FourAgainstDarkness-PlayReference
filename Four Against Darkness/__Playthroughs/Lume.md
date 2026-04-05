@@ -22,12 +22,10 @@
 | Main Hand          |                                  |
 | Offhand            | [[Walking Stick]]                |
 | Clothing           | [[Simple Clothing]]              |
-| Finger             | [[Ring of Teleportation]] 0 uses |
 
 | **Backpack Item Name**      | Number Carried |
 | --------------------------- | -------------- |
 | [[Bandage]]                 | 1              |
-| [[Gem]]                     | 2 (10gp, 55gp) |
 | [[Scroll]] of [[Lightning]] | 1              |
 
 | **Spare Equipment Type** | **Spare Equipment Name** |

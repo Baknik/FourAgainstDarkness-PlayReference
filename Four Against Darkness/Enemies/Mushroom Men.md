@@ -7,6 +7,8 @@
 | -------- | ---------------------- |
 | `1-2`    | [[Bribe]] `6`gp each   |
 | `3-6`    | [[Fight]]              |
+Mushroom Men are [[Fungal]].
+
 After a living [[Character]] is hit by a Mushroom Man, they must succeed a [[Poison]] [[Save]] against `Tier + 2` or lose `1` additional life.
 
-#enemy #minion #mushroom #poisonous #plant
+#enemy #minion #mushroom #poisonous #fungal

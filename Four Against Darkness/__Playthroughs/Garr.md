@@ -16,24 +16,23 @@
 | **`L7` Skill** |     | **`L17` Skill** |     |
 | **`L9` Skill** |     | **`L19` Skill** |     |
 
-| **Equipment Slot** | **Equipped Item Name** |
-| :----------------- | :--------------------- |
-| [[Armor]]          | [[Simple Heavy Armor]] |
-| Main Hand          | [[Hammer]]             |
-| Offhand            | [[Simple Shield]]      |
-|                    |                        |
+| **Equipment Slot** | **Equipped Item Name**                                  |
+| :----------------- | :------------------------------------------------------ |
+| [[Armor]]          | [[Simple Heavy Armor]]                                  |
+| Main Hand          | [[Hammer]]                                              |
+| Offhand            | [[Simple Shield]] with [[Lantern Hook]] and [[Lantern]] |
+|                    |                                                         |
 
 | **Backpack Item Name** | Number Carried |
 | ---------------------- | -------------- |
-| [[Bandage]]            | 0              |
+| [[Bandage]]            | 1              |
 | [[Fool's Gold]]        | 1              |
-| [[Torch]]              | 1              |
 
 | **Spare Equipment Type** | **Spare Equipment Name** |
 | ------------------------ | ------------------------ |
 | [[Weapon]]               | [[Hammer]]               |
 | [[Weapon]]               | [[Sword]]                |
-| [[Weapon]]               | [[Bow]]                  |
+| [[Weapon]]               | [[Crossbow]]             |
 | [[Shield]]               |                          |
 Carrying more [[Armor]], [[Weapon]]s, [[Shield]]s, or [[Gold]] causes you to become [[Overencumbered]].
 

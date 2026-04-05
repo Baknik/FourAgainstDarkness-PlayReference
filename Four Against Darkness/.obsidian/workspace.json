@@ -19,12 +19,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Classes/Mushroom Monk.md",
+                    "file": "Items/Throwing Stars.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Mushroom Monk"
+                  "title": "Throwing Stars"
                 }
               }
             ]
@@ -155,9 +155,25 @@
               "icon": "lucide-file",
               "title": "Lume"
             }
+          },
+          {
+            "id": "641695ade721b686",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "__Playthroughs/Myco.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Myco"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -332,44 +348,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "724df0bed5c4c493",
+  "active": "3eaddbae7f8b87f3",
   "lastOpenFiles": [
-    "Saves/Stealth.md",
-    "Classes/Mushroom Monk.md",
-    "Classes/Rogue.md",
-    "Rules/Travel.md",
-    "__Playthroughs/Party.md",
-    "__Playthroughs/Adventure Notes.md",
-    "Biomes/Dungeon.md",
-    "_Graveyard/Wren.md",
-    "_Graveyard",
-    "__Playthroughs/Garr.md",
+    "Items/Throwing Stars.md",
+    "Items/Bow.md",
+    "Items/Simple Light Armor.md",
+    "Items/Sling.md",
     "__Playthroughs/Vex.md",
+    "__Playthroughs/Garr.md",
+    "Items/Lantern Hook.md",
+    "Items/Bandage.md",
+    "__Playthroughs/Party.md",
     "__Playthroughs/Lume.md",
-    "Enemies/Zombies.md",
-    "Enemies/Skeletons.md",
-    "Rules/Skeletal.md",
-    "Items/Ring of Teleportation.md",
-    "Items/Holy Water.md",
-    "Rules/Undead.md",
-    "Tiles/Dungeon Tiles.md",
-    "Treasure/Weird Treasure.md",
-    "Items/Torch.md",
-    "Rules/Fire.md",
-    "Statuses/Flammable.md",
+    "__Playthroughs/Myco.md",
+    "Classes/Mushroom Monk.md",
+    "Items/Dagger.md",
+    "Items/Crossbow.md",
+    "Items/Axe.md",
+    "Rules/Unarmed.md",
+    "Rules/Fungal.md",
+    "_Bases/Enemies/All Minions.base",
+    "Traits/Slow Regeneration.md",
+    "Traits/Deadeye.md",
+    "Traits/Escaped Slave.md",
+    "Traits/Spectral Trickster.md",
+    "Traits/Stubborn Endurance.md",
+    "Traits/Street Thug.md",
+    "_Bases/Skill Tables/Mushroom Monk Skills.base",
+    "_Bases/Skill Tables/Bulwark Skills.base",
+    "Skills/Karmic Transferral.md",
+    "Skills/Parry and Throw.md",
+    "Skills/Heroic Stillness of the Mind.md",
+    "_Graveyard",
     "_Bases/General Store.base",
-    "Items/Lantern.md",
-    "Items/Bone Sword.md",
-    "Enemies/Living Statue.md",
-    "Rules/Final Boss.md",
     "_Bases/All Enemies.base",
     "_Dataviews/Untitled.base",
     "_Dataviews",
     "_Bases/All Adventure Twists.base",
     "_Bases/All Minion Twists.base",
-    "Treasure",
-    "_Bases/Enemies/All Minions.base",
-    "_Bases/Items/All Mundane Weapons.base",
     "dungeon_entrance.jpg",
     "room_tile_images/dungeon_3.jpg",
     "room_tile_images/dungeon_2.jpg",
